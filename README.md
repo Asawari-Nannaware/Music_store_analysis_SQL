@@ -1,7 +1,5 @@
-# Music_store_analysis_SQL
-![STN Store Annual Report Dashboard](https://github.com/Asawari-Nannaware/Music_store_analysis_SQL/blob/main/MusicDatabaseSchema.png)
-
 # Music Store Database Analysis
+![STN Store Annual Report Dashboard](https://github.com/Asawari-Nannaware/Music_store_analysis_SQL/blob/main/MusicDatabaseSchema.png)
 
 This project explores data from a fictional music store using SQL queries. The goal is to extract insights into employee hierarchies, customer purchasing behavior, and popular music genres. The queries are divided into three sets based on complexity: Easy, Moderate, and Advanced.
 
